@@ -3,7 +3,7 @@
 # 🧩 StructuraAI — Unstructured-to-JSON & Triage Engine
 ### Extração Estruturada de Dados, Classificação Semântica & Roteamento Operacional com IA
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://structura-ai-extractor.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://estrutura-ai-extrator.netlify.app/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)](https://tailwindcss.com/)
@@ -11,7 +11,7 @@
 
 **Convertendo relatos operacionais, tickets de suporte, ocorrências de acesso e lotes de texto livre em payloads JSON tipados sob contrato de Schema, tabelas analíticas e arquivos CSV prontos para integração.**
 
-[🧠 Arquitetura](#-arquitetura-do-motor-de-extração) • [⚡ Funcionalidades](#-principais-funcionalidades) • [💻 Como Executar](#-como-executar-localmente) • [🧩 Portfólio AI Builder](#-ecossistema-de-projetos-trilha-ai-builder--5-soluções)
+[🚀 Acessar Aplicação ao Vivo](https://estrutura-ai-extrator.netlify.app/) • [🧠 Arquitetura](#-arquitetura-do-motor-de-extração) • [⚡ Funcionalidades](#-principais-funcionalidades) • [💻 Como Executar](#-como-executar-localmente) • [🧩 Portfólio AI Builder](#-ecossistema-de-projetos-trilha-ai-builder--5-soluções)
 
 </div>
 
@@ -73,7 +73,7 @@ npm run dev
 | :---: | :--- | :--- | :---: |
 | **01** | [**SentinelAI SOC Dashboard**](https://sentinelai-soc-dashboard.netlify.app/) | Monitoramento SOC, visualização de alertas e triagem de segurança | ✅ No Ar |
 | **02** | [**NetPulse AI Orchestrator**](https://orquestrador-multi-agente-de-logs-dia.netlify.app/) | Orquestração multi-agente para logs de redes, diagnóstico OSI e SecOps | ✅ No Ar |
-| **03** | **StructuraAI Engine** *(Este repositório)* | Extração estruturada de dados e classificação operacional a partir de textos livres | ✅ Concluído |
+| **03** | [**StructuraAI Engine**](https://estrutura-ai-extrator.netlify.app/) *(Este repositório)* | Extração estruturada de dados e classificação operacional a partir de textos livres | ✅ No Ar |
 | **04** | **Zero-Backend Webhook Connector** | Integração ágil de eventos operacionais via webhooks (`n8n` / `Make` / `Zapier`) | ⏳ Em Breve (Roadmap) |
 | **05** | **OpsProtocol RAG Copilot** | Copiloto de conformidade, consulta rápida a POPs e mediação de crises em tempo real | ⏳ Em Breve (Roadmap) |
 
